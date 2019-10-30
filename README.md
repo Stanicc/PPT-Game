@@ -7,7 +7,7 @@
 
 O jogo possui dois modos, o solo onde você pode jogar contra um robô e o modo duo, onde você joga com um amigo.
 
-para jogar é bem simples, basta escolher o modo que quer e escolher o que você quer jogar, caso esteja jogando no duo, passe o celular para o seu amigo escolher o dele, após isso, aparecerá na tela que ganhou e o placar do jogo.
+para jogar é bem simples, basta escolher o modo que quer e escolher o que você quer jogar, caso esteja jogando no duo, passe o celular para o seu amigo escolher o dele, após isso, aparecerá na tela quem ganhou e o placar do jogo.
 
 Gif do jogo em funcionamento (Leve em consideração que a animação do app não está funcionando corretamente. O meu PC não estava aguentando o emulador, portanto tive alguns problemas de lentidão.):
 <img src="https://media.giphy.com/media/LoI8Y6YVNMEyoZ19Pf/giphy.gif"><br>
